@@ -7,4 +7,4 @@ Simplified battleship game made as a workshop during WarsawJS meeting.
 * JavaScript (ES6)
 
 ## How does it work:
-it's simplified version of the game, you can play on three random gameboards by clicking and looking for ships. Gameboards are made as arrays.
+It's simplified version of the game, you can play on three random gameboards by clicking and looking for ships. Gameboards are made as arrays.
