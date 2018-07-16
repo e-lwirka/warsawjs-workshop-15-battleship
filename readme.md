@@ -1,5 +1,5 @@
 # BattleShip
-Simplified battleship game made as a workshop during WarsawJS meeting.
+Simplified battleship game made as a workshop during WarsawJS meetup.
 
 ## Technologies:
 * HTML
