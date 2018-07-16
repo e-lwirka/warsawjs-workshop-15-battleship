@@ -1,2 +1,10 @@
-# Gra w statki
-Uproszczona wersja gry w statki wykonana podczas warsztatów WarsawJS.
+# BattleShip
+Simplified battleship game made as a workshop during WarsawJS meeting.
+
+## Technologies:
+* HTML
+* CSS
+* JavaScript (ES6)
+
+## How does it work:
+it's simplified version of the game, you can play on three random gameboards by clicking and looking for ships. Gameboards are made as arrays.
